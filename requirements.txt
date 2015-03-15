@@ -1,0 +1,2 @@
+selenium>=2.45.0
+SQLAlchemy>=0.9.9
